@@ -7,7 +7,7 @@
 Machine Learning (ML) is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed for every possible scenario.
 
 ### **How It Works**
-- **Input**: Large amounts of data (like your CICIDS2017 dataset)
+- **Input**: Large amounts of data (like CICIDS2017 dataset)
 - **Process**: Algorithms find patterns and relationships in the data
 - **Output**: Predictions or classifications for new, unseen data
 
